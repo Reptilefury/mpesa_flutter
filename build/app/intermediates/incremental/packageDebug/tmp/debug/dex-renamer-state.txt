@@ -1,0 +1,4 @@
+#Mon Sep 06 17:04:24 BST 2021
+base.0=/home/reptilefury/Downloads/Compressed/mpesa_flutter_demo-master/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
